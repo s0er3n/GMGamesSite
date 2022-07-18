@@ -4,13 +4,13 @@
 **The site is still under construction**
 
 **write me on discord (Sören#1141) if you want to have your
-site/software added or have business inquiries **
+site/software added or have business inquiries**
 
 Here is the list of my favorite google maps game related things.
 
 ## 1. [GeoBingo.io](https://geobingo.io/)
 
-![GeoBingo.io Cover](coverOld.png){width=500px}
+![GeoBingo.io Cover](coverOld.png)
 
 [GeoBingo.io](https://geobingo.io/) is a game where you have to find
 prompts in google street view against your friends in a given time. It's

@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Google Maps Games
+**This site is in no way affiliated with Google/Google Maps.**
 
-You can use the [editor on GitHub](https://github.com/s0er3n/GMGamesSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**The site is still under construction**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**write me on discord (Sören#1141) if you want to have your
+site/software added or have business inquiries **
 
-### Markdown
+Here is the list of my favorite google maps game related things.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 1. [GeoBingo.io](https://geobingo.io/)
 
-```markdown
-Syntax highlighted code block
+![GeoBingo.io Cover](coverOld.png){width=500px}
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s0er3n/GMGamesSite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[GeoBingo.io](https://geobingo.io/) is a game where you have to find
+prompts in google street view against your friends in a given time. It's
+build by myself and completely free and open source under GPL3 License.
+You can find the source code
+[here](https://github.com/s0er3n/GeoBingo.io).
